@@ -1,0 +1,1 @@
+cmd_/home/danil/BMSTU/RTSoft21/task2/driver/modules.order := {   echo /home/danil/BMSTU/RTSoft21/task2/driver/driver.ko; :; } | awk '!x[$$0]++' - > /home/danil/BMSTU/RTSoft21/task2/driver/modules.order

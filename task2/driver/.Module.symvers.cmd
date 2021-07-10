@@ -1,0 +1,1 @@
+cmd_/home/danil/BMSTU/RTSoft21/task2/driver/Module.symvers := sed 's/ko$$/o/' /home/danil/BMSTU/RTSoft21/task2/driver/modules.order | scripts/mod/modpost -m -a   -o /home/danil/BMSTU/RTSoft21/task2/driver/Module.symvers -e -i Module.symvers   -T -
